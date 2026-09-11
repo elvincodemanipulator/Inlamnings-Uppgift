@@ -7,7 +7,7 @@ namespace Inlämnings_Uppgift
         static void Main(string[] args)
         {
             Console.WriteLine("Vilken är din favorit bok?");
-            string Bok = Console.ReadLine();
+            string Bok = Console.ReadLine(); // text
             Console.WriteLine(Bok);
         }
     }
